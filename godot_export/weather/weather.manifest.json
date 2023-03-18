@@ -1,1 +1,0 @@
-{"background_color":"#000000","display":"browser","icons":[{"sizes":"144x144","src":"weather.144x144.png","type":"image/png"},{"sizes":"180x180","src":"weather.180x180.png","type":"image/png"},{"sizes":"512x512","src":"weather.512x512.png","type":"image/png"}],"name":"天气预报,HTTP,API,JSON","orientation":"any","start_url":"./weather.html"}
